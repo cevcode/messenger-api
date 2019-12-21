@@ -1,0 +1,13 @@
+{
+  "name": "messenger-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "@cevcode",
+  "license": "MIT",
+  "scripts": {
+    "start": "json-server --watch db.json --port 9999"
+  },
+  "devDependencies": {
+    "json-server": "^0.15.1"
+  }
+}
